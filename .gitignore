@@ -36,3 +36,14 @@ build/
 # Environment variables
 .env
 .env.local
+
+# Images folders
+images/
+**/images/
+
+# Project folders
+netback/README.md
+netback/data/
+netback/main.py
+netback/src/
+README copy.md

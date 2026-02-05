@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from datetime import datetime, timedelta
 
-import src.config as config
+import data.config as config
 from src.netback_formulas import calculate_freight_cost, calculate_boil_off, calculate_netback
 
 start_date = datetime.now()
